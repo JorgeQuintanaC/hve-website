@@ -1,0 +1,13 @@
+{
+  "services": "Services",
+  "about": "About",
+  "contact": "Contact",
+  "title": "High Voltage Engineering Solutions",
+  "subtitle": "We design, supervise and optimize electrical systems for your project.",
+  "contact_button": "Contact us",
+  "form_name": "Name",
+  "form_email": "Email",
+  "form_message": "Message",
+  "form_submit": "Send message",
+  "footer": "All rights reserved."
+}

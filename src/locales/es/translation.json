@@ -1,0 +1,13 @@
+{
+  "services": "Servicios",
+  "about": "Nosotros",
+  "contact": "Contacto",
+  "title": "Soluciones en Ingeniería de Alta Tensión",
+  "subtitle": "Diseñamos, supervisamos y optimizamos sistemas eléctricos para tu proyecto.",
+  "contact_button": "Contáctanos",
+  "form_name": "Nombre",
+  "form_email": "Correo electrónico",
+  "form_message": "Mensaje",
+  "form_submit": "Enviar mensaje",
+  "footer": "Todos los derechos reservados."
+}
